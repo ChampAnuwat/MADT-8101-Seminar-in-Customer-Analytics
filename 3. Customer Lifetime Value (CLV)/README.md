@@ -9,4 +9,4 @@
 ### 3. Do customer segmentation analysis
 ![segmentation](https://github.com/ChampAnuwat/MADT-8101-Seminar-in-Customer-Analytics/blob/main/3.%20Customer%20Lifetime%20Value%20(CLV)/Analysis.png)
 ### Business Recommendation
-#### Almost customers purchased our products through one channel, therefore we should encourage customers to shop more than one channel.
+#### Almost customers purchased our products through one channel, therefore we should encourage customers to shop more than one channel by doing personalized campaign.
