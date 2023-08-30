@@ -1,6 +1,6 @@
 # Basic Customer Analytics in Supermarket use case
 ### Business Pain Point:
-#### To increase sales by understanding customer behaviors to deliver personalized experiences, targeted marketing campaigns, and improve customer service.
+* To increase sales by understanding customer behaviors to deliver personalized experiences, targeted marketing campaigns, and improve customer service.
 # Analytic Steps:
 ### 1. Explore dataset
 ![Overview](https://github.com/ChampAnuwat/MADT-8101-Seminar-in-Customer-Analytics/blob/main/2.%20Basic%20Customer%20Analytics/Overview_Data.png)
