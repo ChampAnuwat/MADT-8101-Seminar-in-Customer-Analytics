@@ -1,5 +1,5 @@
 # What is Topic Modeling ?
-### Topic modeling is a natural language processing (NLP) technique used to automatically identify and extract meaningful topics or themes from a collection of text documents. The goal of topic modeling is to uncover the underlying structure or patterns within a set of documents without the need for human annotation or supervision. It assumes that each document in the corpus is a mixture of various topics, and the model's task is to probabilistically allocate words in the documents to these topics.
+* Topic modeling is a natural language processing (NLP) technique used to automatically identify and extract meaningful topics or themes from a collection of text documents. The goal of topic modeling is to uncover the underlying structure or patterns within a set of documents without the need for human annotation or supervision. It assumes that each document in the corpus is a mixture of various topics, and the model's task is to probabilistically allocate words in the documents to these topics.
 
 # Use Case: Review of Online course
 ## 1. Topic Modeling - Python Code
