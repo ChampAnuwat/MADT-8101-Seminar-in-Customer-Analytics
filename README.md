@@ -1,4 +1,4 @@
-# MADT-8101-Seminar-in-Customer-Analytics
+# MADT 8101: Seminar in Customer Analytics
 ### Course Overview
 * Overview of customer relationship management and customer relationship management analytics including six topics belows:
 #### 1. Designing Customer Data Platform
