@@ -1,4 +1,5 @@
 # What is Churn Scoring ?
+[![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Google--Colab-green)](#) 
 * Churn scoring, also known as customer churn prediction, is a data analytics process used by businesses to identify and predict which customers are likely to stop using their products or services in the near future. The goal of churn scoring is to proactively target these at-risk customers with retention strategies to prevent them from leaving the company.
 # Use Case: E-Commerce
 ## Churn Prediction steps:
