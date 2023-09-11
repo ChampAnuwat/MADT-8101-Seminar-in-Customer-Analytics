@@ -29,4 +29,12 @@
 * Doing K-Mean Clustering two rounds
 ![SegmentModel](https://github.com/ChampAnuwat/MADT-8101-Seminar-in-Customer-Analytics/blob/main/5.%20Customer%20Segmentation/Model_Customer%20Segmentation.png?raw=true)
 * Model Results
-![SegmentModel1]()
+  * 1st Clustering Result: there are 3 groups below
+![SegmentModel1](https://github.com/ChampAnuwat/MADT-8101-Seminar-in-Customer-Analytics/blob/main/5.%20Customer%20Segmentation/1st%20segmentation.png?raw=true)
+  * 2nd Clustering Result: selecting "General Shopper" to reclustering into 3 groups below
+![SegmentModel2](https://github.com/ChampAnuwat/MADT-8101-Seminar-in-Customer-Analytics/blob/main/5.%20Customer%20Segmentation/2nd%20segmentation.png?raw=true)
+### 4. Product Segmentation Model
+* Choose focus groups to do Product Recommendation
+![Product](https://github.com/ChampAnuwat/MADT-8101-Seminar-in-Customer-Analytics/blob/main/5.%20Customer%20Segmentation/Model_Product%20Recommendation.png?raw=true)
+## Business Action
+![BusAction](https://github.com/ChampAnuwat/MADT-8101-Seminar-in-Customer-Analytics/blob/main/5.%20Customer%20Segmentation/Business%20Action.png?raw=true)
