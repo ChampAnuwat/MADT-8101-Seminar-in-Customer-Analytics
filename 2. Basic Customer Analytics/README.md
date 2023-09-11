@@ -8,4 +8,3 @@
 ![Single View](https://github.com/ChampAnuwat/MADT-8101-Seminar-in-Customer-Analytics/blob/main/2.%20Basic%20Customer%20Analytics/Customer_Single_View.png)
 ### 3. Find customer insights
 ![Insight](https://github.com/ChampAnuwat/MADT-8101-Seminar-in-Customer-Analytics/blob/main/2.%20Basic%20Customer%20Analytics/Customer_Insight.png)
-# Business Action
