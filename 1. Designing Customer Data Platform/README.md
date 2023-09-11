@@ -1,4 +1,5 @@
 # What is Customer Data Platform (CDP)?
+[![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
 * Customer Data Platform (CDP) is a specialized type of software platform designed to centralize and manage customer data from various sources to create a unified and comprehensive customer profile. 
 # CDP's purpose
 * The primary purpose of a CDP is to help businesses gain a better understanding of their customers, improve customer experiences, and make more data-driven marketing and business decisions.
