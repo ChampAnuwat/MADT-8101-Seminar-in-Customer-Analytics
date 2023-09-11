@@ -26,10 +26,16 @@
 * CashbackAmount	      : Average cashback in last month
 #### *Number of transactions: 5,630 entries
 ### 2. EDA
+* Data Info
+![EDA1](https://github.com/ChampAnuwat/MADT-8101-Seminar-in-Customer-Analytics/blob/main/4.%20Churn%20Scoring/EDA_Info.png?raw=true)
+* Correlation
+![EDA2](https://github.com/ChampAnuwat/MADT-8101-Seminar-in-Customer-Analytics/blob/main/4.%20Churn%20Scoring/EDA_Correlation.png?raw=true)
 ### 3. Model Creation and Evaluation
 * Models include LogisticRegression, KKNeighbors, XGBoost, and RandomForest
 * Rebalancing technique: SMOTE, Nosampling, Undersampling, and Oversampling
 * Model Evalution: Ranked by F1 Score
+![Rank](https://github.com/ChampAnuwat/MADT-8101-Seminar-in-Customer-Analytics/blob/main/4.%20Churn%20Scoring/Model_Ranking.png?raw=true)
+
 
 
 
