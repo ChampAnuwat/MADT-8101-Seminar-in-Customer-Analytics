@@ -1,4 +1,5 @@
 # Customer Segmentation
+[![](https://img.shields.io/badge/-K--Means-orange)](#) [![](https://img.shields.io/badge/-Clustering-orange)](#) [![](https://img.shields.io/badge/-Dataiku-green)](#)
 ### Workflow Overview
 ![WF](https://github.com/ChampAnuwat/MADT-8101-Seminar-in-Customer-Analytics/blob/main/5.%20Customer%20Segmentation/Data%20Preparation.png?raw=true)
 ### 1. Import Dataset
