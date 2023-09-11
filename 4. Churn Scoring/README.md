@@ -25,6 +25,13 @@
 * DaySinceLastOrder	    : Day Since last order by customer
 * CashbackAmount	      : Average cashback in last month
 #### *Number of transactions: 5,630 entries
-### 2. 
+### 2. EDA
+### 3. Model Creation and Evaluation
+* Models include LogisticRegression, KKNeighbors, XGBoost, and RandomForest
+* Rebalancing technique: SMOTE, Nosampling, Undersampling, and Oversampling
+* Model Evalution: Ranked by F1 Score
+
+
+
 
 
