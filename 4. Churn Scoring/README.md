@@ -2,6 +2,8 @@
 [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Google--Colab-green)](#) 
 * Churn scoring, also known as customer churn prediction, is a data analytics process used by businesses to identify and predict which customers are likely to stop using their products or services in the near future. The goal of churn scoring is to proactively target these at-risk customers with retention strategies to prevent them from leaving the company.
 # Use Case: E-Commerce
+**Notebooks:** [Classification Model](https://github.com/ChampAnuwat/MADT-8101-Seminar-in-Customer-Analytics/blob/8376573d4d4e6c36a7e75f4d907080e0072d1c6c/4.%20Churn%20Scoring/Churn_scoring.ipynb)  
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10GUQI4Tt-rjn8-TcTPC6VOCJjnBXU1k3?usp=sharing)
 ## Churn Prediction steps:
 ### 1. Import Dataset
 #### Dataset includes 20 variables below:
