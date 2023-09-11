@@ -1,4 +1,5 @@
 # Customer Lifetime Value (CLV/CLTV)
+[![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
 ### Project Objective
 * To improve loyalty program of Jones' Salad effectively by using customer data analytics   
 ### Project Steps:
